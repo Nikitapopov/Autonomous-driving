@@ -1,2 +1,6 @@
 /lab1/devel
 /lab1/build
+/lab2/devel
+/lab2/build
+.idea
+.gitignore

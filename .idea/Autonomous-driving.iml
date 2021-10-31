@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/lab1/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab2/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/lab2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab2/devel" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
